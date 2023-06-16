@@ -5,6 +5,7 @@ import yt from "../Images/yt.svg";
 import twttr from "../Images/twttr.svg";
 import pintrst from "../Images/pintrst.svg";
 import inst from "../Images/inst.svg"
+import { Link } from "react-router-dom";
 const MyFooter = () => {
     return (
         <div className="footer-container">
@@ -15,9 +16,9 @@ const MyFooter = () => {
                 </div>
                 <div className="footer-links">
                     <ul>
-                        <li>Our Company</li>
-                        <li>Locations</li>
-                        <li>Contacts</li>
+                        <Link to={"/about-us"}>Our Company</Link>
+                        <Link to={'/our-locations'}>Locations</Link>
+                        <Link to={"/contacts"}>Contact</Link>
                     </ul>
                 </div>
             </div>

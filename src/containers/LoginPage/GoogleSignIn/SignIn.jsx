@@ -26,7 +26,7 @@ const SignIn = () => {
             {value ? <LogOut /> :
                 <button onClick={handleClick} id='google-btn'>
                     <img src={google_icon} alt="icon" />
-                    <span>Sign up with Google</span>
+                    <span>Sign In with Google</span>
                 </button>
             }
         </div>

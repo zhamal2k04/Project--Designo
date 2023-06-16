@@ -2,6 +2,8 @@ import React, { useEffect } from 'react'
 import "../LoginCard/LoginCard.css"
 import { useState } from 'react';
 import SignIn from '../../GoogleSignIn/SignIn';
+import styled, { keyframes } from 'styled-components';
+import { bounce } from 'react-animations';
 
 const LoginCard = () => {
     const [name, setName] = useState('')
@@ -14,6 +16,9 @@ const LoginCard = () => {
     const [passwordDirty, setPasswordDirty] = useState(false)
     const [passwordError, setPasswordError] = useState("Password Cannot be Empty")
     const [formValid, setFormValid] = useState(false)
+
+
+    const Bounce = styled.div`animation: 2s ${keyframes`${bounce}`} infinite`;
 
     useEffect(() => {
         if (emailError || passwordError || nameError) {
@@ -86,7 +91,9 @@ const LoginCard = () => {
             <div className="loginCard-left"></div>
             <div className="loginCard-right">
                 <div className="title-content">
-                    <h1>Join us Today 👋</h1>
+                    <Bounce className='title-content'>
+                        <h1>Join us Today 👋</h1>
+                    </Bounce>
                     <p>Clarity gives you the blocks and components you need to create a truly professional website.</p>
                     <SignIn />
                 </div>
