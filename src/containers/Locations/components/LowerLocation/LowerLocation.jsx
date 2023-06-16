@@ -3,7 +3,7 @@ import "../LowerLocation/LowerLocation.css";
 
 const LowerLocation = () => {
   return (
-    <div className="lowerLocation-container">
+    <div className="LowlowerLocation-container">
       <div className="lowerLeft">
         <div className="locationOval-lower">
           <h1>UK</h1>

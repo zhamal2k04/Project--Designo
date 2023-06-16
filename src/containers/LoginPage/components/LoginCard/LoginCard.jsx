@@ -78,6 +78,7 @@ const LoginCard = () => {
     const submitHandler = (e) => {
         e.preventDefault()
         console.log(`First & Last Name: ${name}\nEmail: ${email}\nPassword: ${password}`)
+        window.location.replace("https://zhamal2k04.github.io/Project--Designo#/home")
     }
 
     return (

@@ -6,13 +6,12 @@
   box-sizing: border-box;
 }
 
-.lowerLocation-container {
+.LowlowerLocation-container {
   width: 100%;
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  position: relative;
-  bottom: 15rem;
+  margin-top: 10rem;
 }
 
 .lowerLeft {

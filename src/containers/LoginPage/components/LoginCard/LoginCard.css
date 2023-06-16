@@ -26,12 +26,12 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-clip: border-box;
-    opacity: 0.9;
     overflow: hidden;
     position: relative;
     transition: 0.4s ease-in-out;
     transform: scale(1);
     animation: show-loader 2s backwards;
+    box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
 }
 
 @keyframes show-loader {
@@ -90,6 +90,7 @@
     border-radius: 20px;
     padding: 15rem;
     border: 2px solid #1E293B;
+    box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
 }
 
 .title-content {
