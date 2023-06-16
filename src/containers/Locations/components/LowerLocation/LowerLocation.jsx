@@ -6,7 +6,7 @@ const LowerLocation = () => {
     <div className="lowerLocation-container">
       <div className="lowerLeft">
         <div className="locationOval-lower">
-          <h1>Australia</h1>
+          <h1>UK</h1>
           <p>
             <span style={{ fontWeight: "bold" }}>Designo UK Office</span>
             <br />

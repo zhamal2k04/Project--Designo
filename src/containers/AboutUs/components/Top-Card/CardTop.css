@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=League+Spartan:wght@600&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Jost&display=swap");
+
 * {
   margin: 0;
   padding: 0;
@@ -14,6 +15,7 @@
   align-items: center;
   position: relative;
   left: 14%;
+
 }
 
 .cardTop-left {
@@ -27,14 +29,21 @@
   text-align: left;
   gap: 32px;
   padding: none;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
 
 .cardTop-right,
-.cardTop-right > img {
+.cardTop-right>img {
   width: 50%;
   height: 480px;
   border-radius: 0px 15px 15px 0px;
 }
+
+.cardTop-right>img {
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+
 
 .cardTop-title {
   width: 540px;
@@ -46,7 +55,7 @@
   height: 130px;
 }
 
-.cardTop-title > h1 {
+.cardTop-title>h1 {
   font-family: "Jost", sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -55,7 +64,7 @@
   color: #ffffff;
 }
 
-.cardTop-paragraph > p {
+.cardTop-paragraph>p {
   font-family: "Jost", sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -65,18 +74,18 @@
   position: relative;
   right: 40px;
 }
+
 .cardTop-oval {
   width: 540px;
   height: 480px;
-  background: linear-gradient(
-    90deg,
-    rgba(93, 2, 2, 0.0001) 0%,
-    rgba(93, 2, 2, 0.497569) 100%
-  );
+  background: linear-gradient(90deg,
+      rgba(93, 2, 2, 0.0001) 0%,
+      rgba(93, 2, 2, 0.497569) 100%);
   mix-blend-mode: normal;
   opacity: 0.31;
   transform: matrix(1, 0, 0, -1, 0, 0);
   border-radius: 50%;
   position: absolute;
   left: 364px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }

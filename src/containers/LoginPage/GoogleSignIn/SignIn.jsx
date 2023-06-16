@@ -1,6 +1,6 @@
 import React from "react";
 import { auth, provider } from "./MyConfig"
-import { signInWithPopup } from 'firebase/auth'
+import { signInWithPopup, signInWithRedirect } from 'firebase/auth'
 import { useState } from 'react'
 import { useEffect } from 'react'
 import google_icon from "../images/google-icon.png";
@@ -13,6 +13,7 @@ const SignIn = () => {
         signInWithPopup(auth, provider).then((data) => {
             setValue(data.user.email)
             localStorage.setItem("Email", data.user.email)
+            window.location.assign("zhamal2k04.github.io/Project--Designo#/home")
         })
     }
 
