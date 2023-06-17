@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Project--Designo/static/css/main.8ed7a1d6.css",
-    "main.js": "/Project--Designo/static/js/main.832c493b.js",
+    "main.css": "/Project--Designo/static/css/main.cccb56a8.css",
+    "main.js": "/Project--Designo/static/js/main.07f4f49c.js",
     "static/media/card-img03.svg": "/Project--Designo/static/media/card-img03.9153eda36f724d6926e03faf6939e92c.svg",
     "static/media/card-img02.svg": "/Project--Designo/static/media/card-img02.d524b3b6533b298e851315d9deed0bbc.svg",
     "static/media/app-card-3.svg": "/Project--Designo/static/media/app-card-3.7c27010eeaa7fa7ce3fd9df35806b175.svg",
@@ -15,19 +15,19 @@
     "static/media/card-img06.svg": "/Project--Designo/static/media/card-img06.39b8119cc71a2f9f4e688059efa9286a.svg",
     "static/media/Card-img03.svg": "/Project--Designo/static/media/Card-img03.cfae55db89416fdad4571c6cb12bb34d.svg",
     "static/media/card-img05.svg": "/Project--Designo/static/media/card-img05.2a76a3a434a42ae1b40b55b1604b19db.svg",
-    "static/media/loc_canada.svg": "/Project--Designo/static/media/loc_canada.5698365d66c7c0cb615a.svg",
     "static/media/img4.svg": "/Project--Designo/static/media/img4.0328d71fa80424ed7cdf.svg",
     "static/media/img3.svg": "/Project--Designo/static/media/img3.b4941ae1bc3e75ce1f6d.svg",
-    "static/media/loc_uk.svg": "/Project--Designo/static/media/loc_uk.be9c98b01b00a7489c93.svg",
     "static/media/card-img01.svg": "/Project--Designo/static/media/card-img01.55eb6c98fcf9d492b3e2596772d564d2.svg",
     "static/media/app-card-5.svg": "/Project--Designo/static/media/app-card-5.698acc13c190aa3090916139e1c1ffe6.svg",
     "static/media/bg-img.svg": "/Project--Designo/static/media/bg-img.775c757a1b28814d2b97.svg",
     "static/media/Card-img02.svg": "/Project--Designo/static/media/Card-img02.fdb21dc2fd7593e08a2a484de923a1db.svg",
     "static/media/image2.svg": "/Project--Designo/static/media/image2.bd7b2393011881723a03.svg",
-    "static/media/loc_australia.svg": "/Project--Designo/static/media/loc_australia.08abf2eaf4ec7a6eb097.svg",
     "static/media/img2.svg": "/Project--Designo/static/media/img2.e44fb294cee2f94b1ae4.svg",
     "static/media/image2.jpg": "/Project--Designo/static/media/image2.38061dec005165b5cfc1.jpg",
+    "static/media/UK.png": "/Project--Designo/static/media/UK.3e6fe50f3a1321d13eff.png",
     "static/media/app-card-4.svg": "/Project--Designo/static/media/app-card-4.b65a55ea20ad764467e2f10bc0b4e1d3.svg",
+    "static/media/australia.png": "/Project--Designo/static/media/australia.fa2fcc292f5d1e84e4f2.png",
+    "static/media/canada.png": "/Project--Designo/static/media/canada.efe82a4d813041afce3f.png",
     "static/media/man_2.svg": "/Project--Designo/static/media/man_2.e004d57bf227ca3a2ad041e83c6d3db0.svg",
     "static/media/UK.svg": "/Project--Designo/static/media/UK.adae51098259f6c2500d53aad30c76bf.svg",
     "static/media/Canada.svg": "/Project--Designo/static/media/Canada.eb4860824298245cdc0115c6366509d2.svg",
@@ -41,11 +41,11 @@
     "index.html": "/Project--Designo/index.html",
     "static/media/yt.svg": "/Project--Designo/static/media/yt.0ca70da44ca3fca023a62ee9a1d46934.svg",
     "static/media/fcb.svg": "/Project--Designo/static/media/fcb.09ec70604db64a65cee24143816c1081.svg",
-    "main.8ed7a1d6.css.map": "/Project--Designo/static/css/main.8ed7a1d6.css.map",
-    "main.832c493b.js.map": "/Project--Designo/static/js/main.832c493b.js.map"
+    "main.cccb56a8.css.map": "/Project--Designo/static/css/main.cccb56a8.css.map",
+    "main.07f4f49c.js.map": "/Project--Designo/static/js/main.07f4f49c.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ed7a1d6.css",
-    "static/js/main.832c493b.js"
+    "static/css/main.cccb56a8.css",
+    "static/js/main.07f4f49c.js"
   ]
 }
