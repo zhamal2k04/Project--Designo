@@ -1,10 +1,13 @@
 import React from "react";
 import "../MiddleLocation/MiddleLocation.css";
+import Leaflet2 from "../ReactLeaflet/AllMaps/Leaflet2";
 
 const MiddleLocation = () => {
   return (
     <div className="middleLocation-container">
-      <div className="middleLeft"></div>
+      <div className="middleLeft">
+        <Leaflet2 />
+      </div>
       <div className="middleRight">
         <div className="locationOval-middle">
           <h1>Australia</h1>

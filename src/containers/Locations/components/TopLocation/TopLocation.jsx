@@ -1,4 +1,5 @@
 import React from "react";
+import LeafLet from "../ReactLeaflet/AllMaps/LeafLet";
 import "../TopLocation/TopLocation.css";
 
 const TopLocation = () => {
@@ -21,7 +22,9 @@ const TopLocation = () => {
           <p>Contact P : +1 253-863-8967 M : contact@designo.co</p>
         </div>
       </div>
-      <div className="rightLocation-section"></div>
+      <div className="rightLocation-section">
+        <LeafLet/>
+      </div>
     </div>
   );
 };

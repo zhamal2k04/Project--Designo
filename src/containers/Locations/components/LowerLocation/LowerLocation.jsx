@@ -1,5 +1,6 @@
 import React from "react";
 import "../LowerLocation/LowerLocation.css";
+import LeafLet3 from "../ReactLeaflet/AllMaps/Leaflet3"
 
 const LowerLocation = () => {
   return (
@@ -20,7 +21,9 @@ const LowerLocation = () => {
           <p>Contact P : +1 253-863-8967 M : contact@designo.uk</p>
         </div>
       </div>
-      <div className="lowerRight"></div>
+      <div className="lowerRight">
+        <LeafLet3/>
+      </div>
     </div>
   );
 };

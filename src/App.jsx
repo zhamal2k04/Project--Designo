@@ -10,6 +10,7 @@ import AboutUs from "./containers/AboutUs/container/AboutUs";
 import OurLocations from "./containers/Locations/container/OurLocations";
 import LoginPage from "./containers/LoginPage/container/LoginPage";
 import ContactPage from "./containers/Contacts/container/ContactPage";
+import LeafLet from "./containers/Locations/components/ReactLeaflet/AllMaps/LeafLet";
 
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
           <Route path="/our-locations" element={<OurLocations/>}/>
           <Route path="/login" element={<LoginPage/>}/>
           <Route path="/contacts" element={<ContactPage/>}/>
+          <Route path="/leaflet" element={<LeafLet/>}/>
         </Routes>
       </MyLayout>
     </div>
