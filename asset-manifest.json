@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Project--Designo/static/css/main.cccb56a8.css",
-    "main.js": "/Project--Designo/static/js/main.07f4f49c.js",
+    "main.css": "/Project--Designo/static/css/main.5c5c2b96.css",
+    "main.js": "/Project--Designo/static/js/main.af0b8c10.js",
     "static/media/card-img03.svg": "/Project--Designo/static/media/card-img03.9153eda36f724d6926e03faf6939e92c.svg",
     "static/media/card-img02.svg": "/Project--Designo/static/media/card-img02.d524b3b6533b298e851315d9deed0bbc.svg",
     "static/media/app-card-3.svg": "/Project--Designo/static/media/app-card-3.7c27010eeaa7fa7ce3fd9df35806b175.svg",
@@ -34,18 +34,18 @@
     "static/media/man_1.svg": "/Project--Designo/static/media/man_1.c8b20dfd87b795697444e7b89c10e3aa.svg",
     "static/media/man_3.svg": "/Project--Designo/static/media/man_3.ce6373a8d31c2c6de116e59bf22e1adb.svg",
     "static/media/Australia.svg": "/Project--Designo/static/media/Australia.b6fe9b9ce35b45d4a37a11856341a974.svg",
-    "static/media/inst.svg": "/Project--Designo/static/media/inst.701d717dbcd5734062c18651a0c3efd9.svg",
-    "static/media/pintrst.svg": "/Project--Designo/static/media/pintrst.5822b90348086552a4e4178f35765f1d.svg",
-    "static/media/twttr.svg": "/Project--Designo/static/media/twttr.7fb75f6c5c43eca117ffc5f4be40349a.svg",
+    "static/media/inst.svg": "/Project--Designo/static/media/inst.528e9f1aba661b7c4c25d5f13986a74b.svg",
+    "static/media/pintrst.svg": "/Project--Designo/static/media/pintrst.23abfa2bcacfd2f375389685f74d1702.svg",
+    "static/media/twttr.svg": "/Project--Designo/static/media/twttr.6155aaee49df59b3aaf692d49b2cc6a1.svg",
     "static/media/user.svg": "/Project--Designo/static/media/user.c40e9fd7de74882c1f354876e4a9d087.svg",
     "index.html": "/Project--Designo/index.html",
-    "static/media/yt.svg": "/Project--Designo/static/media/yt.0ca70da44ca3fca023a62ee9a1d46934.svg",
-    "static/media/fcb.svg": "/Project--Designo/static/media/fcb.09ec70604db64a65cee24143816c1081.svg",
-    "main.cccb56a8.css.map": "/Project--Designo/static/css/main.cccb56a8.css.map",
-    "main.07f4f49c.js.map": "/Project--Designo/static/js/main.07f4f49c.js.map"
+    "static/media/yt.svg": "/Project--Designo/static/media/yt.d7713188a13a92fe93555e35ae32d800.svg",
+    "static/media/fcb.svg": "/Project--Designo/static/media/fcb.ed1bc0df1721984d398d61c28d7a85d7.svg",
+    "main.5c5c2b96.css.map": "/Project--Designo/static/css/main.5c5c2b96.css.map",
+    "main.af0b8c10.js.map": "/Project--Designo/static/js/main.af0b8c10.js.map"
   },
   "entrypoints": [
-    "static/css/main.cccb56a8.css",
-    "static/js/main.07f4f49c.js"
+    "static/css/main.5c5c2b96.css",
+    "static/js/main.af0b8c10.js"
   ]
 }
